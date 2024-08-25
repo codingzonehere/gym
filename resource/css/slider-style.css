@@ -1,0 +1,28 @@
+/*********************
+********Slider********
+*********************/
+.carousel-item{
+    height: 580px;
+}
+.carousel-img-1{
+   color: red;
+}
+.carousel-img-2{
+    background: url(../images/TanvirEdit-2.jpg) no-repeat;
+    background-size: cover;
+}
+.carousel-img-3{
+    background: url(../images/TanvirEdit-3.jpg) no-repeat;
+    background-size: cover;
+}
+.carousel-img-4{
+    background: url(../images/TanvirEdit-4.jpg) no-repeat;
+    background-size: cover;
+}
+.carousel-img-5{
+    background: url(../images/TanvirEdit-5.jpg) no-repeat;
+    background-size: cover;
+}
+.carousel-indicators{
+    cursor: pointer !important;
+}
